@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NorahAlshebel
-- 👀 I’m interested in ...
+-  Hi, I’m @NorahAlshebel
+- 👀 I’m interested in participating in programming and computer related matters.
 - 🌱 I’m currently learning different languages in programming
 - 📫 Noraalshebel3@gmail.com
 
